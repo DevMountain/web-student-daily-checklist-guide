@@ -49,7 +49,7 @@
 
 * Initially, you have the option to reach out to your mentor.
 * If you would rather talk privately with Krissy Weekly (Student Success), you can reach her directly via Slack
-  \@krissy or email her (<krissy@devmounta.in>) to set up a time to talk.
+  @krissy or email her (<krissy@devmounta.in>) to set up a time to talk.
 
 
 #### What if I’m having personal issues and it interferes with my learning at DevMountain?
@@ -61,7 +61,7 @@
 
 #### I live in DevMountain’s Student Housing; who should I reach out to for questions/concerns?
 
-  * Reach out to Bri Rios via Slack \@bri.rios or put your questions in the housing Slack channel (provo-housing).
+  * Reach out to Bri Rios via Slack @bri.rios or put your questions in the housing Slack channel (provo-housing).
 
 
 ###### If you have any other questions/concerns, discuss them with your mentor and they will direct you to the correct personnel.
