@@ -1,7 +1,7 @@
 # web-student-daily-checklist-guide
 
 
-## Student Guide - Provo, UT
+## Student Guide — Provo, UT
 
 
 ####  What is expected of me every day?
@@ -28,7 +28,7 @@
 * www.slack.com - join channel (web-dm#) to communicate with your class
   * We use Slack _**A LOT**_  at DevMountain. It is the first form of contact used to communicate.
     Please be active and check your cohort’s channel frequently.
-  * **pro-tip** - download Slack's desktop app https://slack.com/downloads (keeps you logged in, and
+  * **pro-tip** - download [Slack's desktop app](https://slack.com/downloads) (keeps you logged in, and
     you’ll receive desktop notifications to stay in the loop)
 * Other DevMtn #channels to join:
   * announce
@@ -42,14 +42,14 @@
 
 #### Who are some people I should know at DevMtn?
 
-* We have fabulous staff at DevMountain! Check out who they are here: https://devmounta.in/about#ourteam
+* We have fabulous staff at DevMountain! Check out who they are here: <https://devmounta.in/about#ourteam>
 
 
 #### If I’m concerned about my success at DevMtn, who should I reach out to?
 
 * Initially, you have the option to reach out to your mentor.
 * If you would rather talk privately with Krissy Weekly (Student Success), you can reach her directly via Slack
-  @(krissy) or email her (krissy@devmounta.in) to set up a time to talk.
+  \@krissy or email her (<krissy@devmounta.in>) to set up a time to talk.
 
 
 #### What if I’m having personal issues and it interferes with my learning at DevMountain?
@@ -61,7 +61,7 @@
 
 #### I live in DevMountain’s Student Housing; who should I reach out to for questions/concerns?
 
-  * Reach out to Bri Rios via Slack @(bri.rios) or put your questions in the housing Slack channel (provo-housing).
+  * Reach out to Bri Rios via Slack \@bri.rios or put your questions in the housing Slack channel (provo-housing).
 
 
 ###### If you have any other questions/concerns, discuss them with your mentor and they will direct you to the correct personnel.
